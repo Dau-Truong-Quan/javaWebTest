@@ -6,7 +6,8 @@ public class Mot {
 
 			int x; // ua bien kia c
 			int y; // file can chinh
-			int k;
+			int k; // ai ma biet
+			int thaydoi;
 			
 
 
